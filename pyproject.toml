@@ -9,10 +9,10 @@ description = "FastAPI endpoints for CopilotKit LangGraph history persistence. C
 readme = "README.md"
 license = "MIT"
 authors = [
-    { name = "Benjamin Alaka" }
+    { name = "Benjamin, Alex" }
 ]
 maintainers = [
-    { name = "Benjamin Alaka" }
+    { name = "Benjamin Alex" }
 ]
 keywords = [
     "copilotkit",
@@ -49,10 +49,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/alakaybenjamin/copilotkit-langgraph-history-extend"
-Documentation = "https://github.com/alakaybenjamin/copilotkit-langgraph-history-extend#readme"
-Repository = "https://github.com/alakaybenjamin/copilotkit-langgraph-history-extend"
-Issues = "https://github.com/alakaybenjamin/copilotkit-langgraph-history-extend/issues"
+Homepage = "https://github.com/alakaybenjamin/copilotkit-langgraph-history"
+Documentation = "https://github.com/alakaybenjamin/copilotkit-langgraph-history#readme"
+Repository = "https://github.com/alakaybenjamin/copilotkit-langgraph-history"
+Issues = "https://github.com/alakaybenjamin/copilotkit-langgraph-history/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/copilotkit_history"]
